@@ -10,6 +10,7 @@ case_study/
 │   └── routes/
 │       ├── products.py      # POST /api/products  (fixed – Part 1)
 │       └── alerts.py        # GET  /api/companies/<id>/alerts/low-stock  (Part 3)
+├── Mukund Chavan.pdf        # Case Study submission doc
 ├── config.py                # Environment-based configuration
 ├── run.py                   # Entry point
 ├── seed.py                  # Demo data for testing
