@@ -1,0 +1,2 @@
+id,company_id,name,contact_email,contact_phone,address,is_active,created_at
+1,1,Supplier Corp,orders@supplier.com,+1-555-0100,,1,2026-04-29 05:36:21.420767

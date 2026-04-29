@@ -1,0 +1,2 @@
+id,company_id,product_type_id,name,sku,price,description,is_bundle,is_active,created_at,updated_at
+1,1,2,Widget A,WID-001,29.99,,0,1,2026-04-29 05:36:21.418495,2026-04-29 05:36:21.418496
